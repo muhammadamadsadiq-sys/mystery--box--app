@@ -71,8 +71,7 @@ Semester: 6th( EVE)
 
  Department: BS Information Technology
 
- https://github.com/muhammadamadsadiq-sys
-
+ Github:https://github.com/muhammadamadsadiq-sys
 
 
 GitHub: https://github.com/YourGitHubUsername
