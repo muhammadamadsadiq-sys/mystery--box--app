@@ -66,7 +66,12 @@ Future Enhancements
 - Leaderboard feature
 
 Developed By: Amad Khan
+
+Semester: 6th( EVE)
+
  Department: BS Information Technology
+
+ https://github.com/muhammadamadsadiq-sys
 
 
 
