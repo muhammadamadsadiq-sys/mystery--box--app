@@ -65,12 +65,13 @@ Future Enhancements
 - Improved animations and UI
 - Leaderboard feature
 
-Developed By
-
+Developed By:
 Amad Khan
 
 BS Information Technology
-GitHub: https://github.com/muhammadamadsadiq-sys
 Department of Information Technology
+
+GitHub: https://github.com/muhammadamadsadiq-sys
+
 
 GitHub: https://github.com/YourGitHubUsername
